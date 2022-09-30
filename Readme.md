@@ -60,5 +60,8 @@ This repository will focus on:
  * [FLASH: fast and robust framework for privacy-preserving machine learning](https://eprint.iacr.org/2019/1365.pdf) Byali, Megha, et al. "FLASH: fast and robust framework for privacy-preserving machine learning." Cryptology ePrint Archive (2019).
  * [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://arxiv.org/pdf/2004.02229) Wagh, Sameer, et al. "Falcon: Honest-majority maliciously secure framework for private deep learning." arXiv preprint arXiv:2004.02229 (2020).
 
+## ICML
+* [**Secure Quantized Training for Deep Learning**](https://proceedings.mlr.press/v162/keller22a/keller22a.pdf) Keller M, Sun K. Secure quantized training for deep learning[C]//International Conference on Machine Learning. PMLR, 2022: 10912-10938.
+
 ## ArXiv
  * [Ariann: Low-interaction privacy-preserving deep learning via function secret sharing](https://arxiv.org/pdf/2006.04593) Ryffel, Théo, et al. "Ariann: Low-interaction privacy-preserving deep learning via function secret sharing." arXiv preprint arXiv:2006.04593 (2020).

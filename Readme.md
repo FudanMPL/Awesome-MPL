@@ -1,5 +1,10 @@
 # Multi-Party-Learning-Related-Papers
-Related papers of multi party Learning
+This is a repository for resources on all kinds of things of Multi-Party Learning frameworks. Currently it's maintained by Daslab of Fudan University.
+All these papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome. This repository is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact us.
+
+This repository will focus on:
+1.Frameworks of Multi-Party Learning.
+2.Theories of Multi-Party Learning.
 
 
 # Bookmarks

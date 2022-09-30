@@ -1,14 +1,13 @@
-<!--
- * @Author: Xinyu Tu
- * @Date: 2022-09-16 13:53:50
- * @LastEditors: Xinyu Tu
- * @LastEditTime: 2022-09-16 16:14:41
--->
 # Multi-Party-Learning-Related-Papers
-Related papers of multi party Learning
+This is a repository for resources on all kinds of things of Multi-Party Learning frameworks. Currently it's maintained by Daslab of Fudan University.
+All these papers are sorted by time and seperated by category. Any suggestions and pull requests are welcome. This repository is only for research purpose. If any authors don't want their paper to be listed here, please feel free to contact us.
+
+This repository will focus on:
+* 1. Frameworks of Multi-Party Learning.
+* 2. Theories of Multi-Party Learning.
 
 
-# Bookmarks
+# Table of Contents
 * [Crypto](#Crypto)
 * [ACM CCS](#ACM-CCS)
 * [ACM SIGMOD](#ACM-SIGMOD)
@@ -50,9 +49,10 @@ Related papers of multi party Learning
 
 
 ## Usenix-Security
+ * [Piranha: A GPU Platform for Secure Computation](https://www.usenix.org/system/files/sec22-watson.pdf) Jean-Luc Watson, et al. "Piranha: A GPU Platform for Secure Computation." 31st USENIX Security Symposium(USENIX Security 22). 2022.
  * [{XONN}:{XNOR-based} Oblivious Deep Neural Network Inference](https://www.usenix.org/system/files/sec19fall_riazi_prepub.pdf) Riazi, M. Sadegh, et al. "{XONN}:{XNOR-based} Oblivious Deep Neural Network Inference." 28th USENIX Security Symposium (USENIX Security 19). 2019.
  
- * [Delphi: A cryptographic inference service for neural networks](https://www.usenix.org/system/files/sec20-mishra_0.pdf) P. Mishra, R. Lehmkuhl, A. Srinivasan, W. Zheng, and R. A. Popa // in 29th {USENIX} Security Symposium ({USENIX} Security 20) // 2020
+ * [Delphi: A cryptographic inference service for neural networks](https://www.usenix.org/system/files/sec20-mishra_0.pdf) Mishra, Pratyush, et al. "Delphi: A cryptographic inference service for neural networks." 29th USENIX Security Symposium (USENIX Security 20). 2020.
  
  * [{SWIFT}: Super-fast and Robust {Privacy-Preserving} Machine Learning](https://www.usenix.org/system/files/sec21-koti.pdf) Koti, Nishat, et al. "{SWIFT}: Super-fast and Robust {Privacy-Preserving} Machine Learning." 30th USENIX Security Symposium (USENIX Security 21). 2021.
  
@@ -66,17 +66,17 @@ Related papers of multi party Learning
  
  * [Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics](https://www.usenix.org/system/files/sec21-poddar.pdf) Poddar, Rishabh, et al. "Senate: A {Maliciously-Secure}{MPC} Platform for Collaborative Analytics." 30th USENIX Security Symposium (USENIX Security 21). 2021.
  
- * [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference](https://www.usenix.org/system/files/sec22fall_huang-zhicong.pdf) Huang, Zhicong, et al. "Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference." IACR Cryptol. ePrint Arch. 2022 (2022): 207.
+ * [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference Secure Poisson Regression](https://www.usenix.org/system/files/sec22fall_huang-zhicong.pdf) Huang, Zhicong, et al. "Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference." IACR Cryptol. ePrint Arch. 2022 (2022): 207.
  
  
 ## NDSS
  * [ABY-A framework for efficient mixed-protocol secure two-party computation](https://encrypto.de/papers/DSZ15.pdf) Demmler, Daniel, Thomas Schneider, and Michael Zohner. "ABY-A framework for efficient mixed-protocol secure two-party computation." NDSS. 2015.
  
-* [BLAZE: blazing fast privacy-preserving machine learning](https://arxiv.org/pdf/2005.09042) Patra, Arpita, and Ajith Suresh. "BLAZE: blazing fast privacy-preserving machine learning." NDSS 2020.
+* [BLAZE: blazing fast privacy-preserving machine learning](https://arxiv.org/pdf/2005.09042) Patra, Arpita, and Ajith Suresh. "BLAZE: blazing fast privacy-preserving machine learning." arXiv preprint arXiv:2005.09042 (2020).
  
- * [Trident: Efficient 4pc framework for privacy preserving machine learning](https://arxiv.org/pdf/1912.02631) Chaudhari, Harsh, Rahul Rachuri, and Ajith Suresh. "Trident: Efficient 4pc framework for privacy preserving machine learning." NDSS 2020.
+ * [Trident: Efficient 4pc framework for privacy preserving machine learning](https://arxiv.org/pdf/1912.02631) Chaudhari, Harsh, Rahul Rachuri, and Ajith Suresh. "Trident: Efficient 4pc framework for privacy preserving machine learning." arXiv preprint arXiv:1912.02631 (2019).
  
- * [GALA: Greedy ComputAtion for linear algebra in privacy-preserved neural networks](https://arxiv.org/pdf/2105.01827) Zhang, Qiao, Chunsheng Xin, and Hongyi Wu. "GALA: Greedy ComputAtion for linear algebra in privacy-preserved neural networks." NDSS 2021.
+ * [GALA: Greedy ComputAtion for linear algebra in privacy-preserved neural networks](https://arxiv.org/pdf/2105.01827) Zhang, Qiao, Chunsheng Xin, and Hongyi Wu. "GALA: Greedy ComputAtion for linear algebra in privacy-preserved neural networks." arXiv preprint arXiv:2105.01827 (2021).
  
  * [Tetrad: Actively Secure 4PC for Secure Training and Inference](https://arxiv.org/pdf/2106.02850) Koti, Nishat, et al. "Tetrad: actively secure 4pc for secure training and inference." arXiv preprint arXiv:2106.02850 (2021).
  
@@ -90,9 +90,9 @@ Related papers of multi party Learning
 ## PETS
  * [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/2019/files/papers/issue3/popets-2019-0035.pdf) Wagh, Sameer, Divya Gupta, and Nishanth Chandran. "SecureNN: 3-Party Secure Computation for Neural Network Training." Proc. Priv. Enhancing Technol. 2019.3 (2019): 26-49.
  
- * [FLASH: fast and robust framework for privacy-preserving machine learning](https://eprint.iacr.org/2019/1365.pdf) Byali, Megha, et al. "FLASH: fast and robust framework for privacy-preserving machine learning." Proc. Priv. Enhancing Technol. 2020(2): 459-480 (2020).
+ * [FLASH: fast and robust framework for privacy-preserving machine learning](https://eprint.iacr.org/2019/1365.pdf) Byali, Megha, et al. "FLASH: fast and robust framework for privacy-preserving machine learning." Cryptology ePrint Archive (2019).
  
- * [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://arxiv.org/pdf/2004.02229) Wagh, Sameer, et al. "Falcon: Honest-majority maliciously secure framework for private deep learning." Proc. Priv. Enhancing Technol. 2021(1): 188-208 (2021).
+ * [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://arxiv.org/pdf/2004.02229) Wagh, Sameer, et al. "Falcon: Honest-majority maliciously secure framework for private deep learning." arXiv preprint arXiv:2004.02229 (2020).
 
 
 ## ArXiv

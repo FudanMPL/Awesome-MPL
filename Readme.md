@@ -50,7 +50,7 @@ This repository will focus on:
 ## Usenix-Security
  * [{XONN}:{XNOR-based} Oblivious Deep Neural Network Inference](https://www.usenix.org/system/files/sec19fall_riazi_prepub.pdf) Riazi, M. Sadegh, et al. "{XONN}:{XNOR-based} Oblivious Deep Neural Network Inference." 28th USENIX Security Symposium (USENIX Security 19). 2019.
  
- * [Delphi: A cryptographic inference service for neural networks](https://www.usenix.org/system/files/sec20-mishra_0.pdf) P. Mishra, R. Lehmkuhl, A. Srinivasan, W. Zheng, and R. A. Popa // in 29th {USENIX} Security Symposium ({USENIX} Security 20) // 2020
+ * [Delphi: A cryptographic inference service for neural networks](https://www.usenix.org/system/files/sec20-mishra_0.pdf) Mishra, Pratyush, et al. "Delphi: A cryptographic inference service for neural networks." 29th USENIX Security Symposium (USENIX Security 20). 2020.
  
  * [{SWIFT}: Super-fast and Robust {Privacy-Preserving} Machine Learning](https://www.usenix.org/system/files/sec21-koti.pdf) Koti, Nishat, et al. "{SWIFT}: Super-fast and Robust {Privacy-Preserving} Machine Learning." 30th USENIX Security Symposium (USENIX Security 21). 2021.
  

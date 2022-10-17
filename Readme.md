@@ -21,8 +21,12 @@ This repository will focus on:
 ## Crypto
  * [Multiparty computation from somewhat homomorphic encryption](https://link.springer.com/content/pdf/10.1007/978-3-642-32009-5_38.pdf)  Damgård, Ivan, et al. "Multiparty computation from somewhat homomorphic encryption." Annual Cryptology Conference. Springer, Berlin, Heidelberg, 2012.
 
+ * [Traceable Secret Sharing and Applications](https://eprint.iacr.org/2021/871.pdf) Goyal, Vipul, Yifan Song, and Akshayaram Srinivasan. "Traceable secret sharing and applications." Annual International Cryptology Conference. Springer, Cham, 2021.
+
 ## ACM-SIGMOD
 * [IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy](https://doi.org/10.1145/3514221.3526151)Wang C, Bater J, Chenghong Wang, Johes Bater, Kartik Nayak, and Ashwin Machanavajjhala. 2022. IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy. In Proceedings of the 2022 International Conference on Management of Data (SIGMOD '22). Association for Computing Machinery, New York, NY, USA, 818–832. 
+
+* [Prism: Private Verifiable Set Computation over Multi-Owner Outsourced Databases](https://dl.acm.org/doi/pdf/10.1145/3448016.3452839) Li, Yin, et al. "Prism: private verifiable set computation over multi-owner outsourced databases." Proceedings of the 2021 International Conference on Management of Data. 2021.
 
 ## ACM-CCS
  * [ASTRA: high throughput 3pc over rings with application to secure prediction](https://arxiv.org/pdf/1912.02592) Chaudhari, Harsh, et al. "ASTRA: high throughput 3pc over rings with application to secure prediction." Proceedings of the 2019 ACM SIGSAC Conference on Cloud Computing Security Workshop. 2019.
@@ -34,6 +38,8 @@ This repository will focus on:
  * [Cryptflow2: Practical 2-party secure inference](https://arxiv.org/pdf/2010.06457) Rathee, Deevashwer, et al. "CrypTFlow2: Practical 2-party secure inference." Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security. 2020.
  
  * [COINN: Crypto/ML Codesign for Oblivious Inference via Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3460120.3484797) Hussain, Siam Umar, et al. "COINN: Crypto/ML Codesign for Oblivious Inference via Neural Networks." Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security. 2021.
+
+ * [Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority](https://eprint.iacr.org/2022/623.pdf) Dalskov, Anders, Daniel Escudero, and Ariel Nof. "Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority." Cryptology ePrint Archive (2022).
 
 
 ## IEEE-S&P
@@ -67,6 +73,8 @@ This repository will focus on:
  * [Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics](https://www.usenix.org/system/files/sec21-poddar.pdf) Poddar, Rishabh, et al. "Senate: A {Maliciously-Secure}{MPC} Platform for Collaborative Analytics." 30th USENIX Security Symposium (USENIX Security 21). 2021.
  
  * [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference Secure Poisson Regression](https://www.usenix.org/system/files/sec22fall_huang-zhicong.pdf) Huang, Zhicong, et al. "Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference." IACR Cryptol. ePrint Arch. 2022 (2022): 207.
+
+ * [Secure Poisson Regression](https://www.usenix.org/system/files/sec22-kelkar.pdf) Kelkar, Mahimna, et al. "Secure poisson regression." 31st USENIX Security Symposium (USENIX Security 22). 2022.
  
  
 ## NDSS
@@ -97,3 +105,5 @@ This repository will focus on:
 
 ## ArXiv
  * [Ariann: Low-interaction privacy-preserving deep learning via function secret sharing](https://arxiv.org/pdf/2006.04593) Ryffel, Théo, et al. "Ariann: Low-interaction privacy-preserving deep learning via function secret sharing." arXiv preprint arXiv:2006.04593 (2020).
+
+ * [Efficient ML Models for Practical Secure Inference](https://arxiv.org/pdf/2209.00411) Ganesan, Vinod, et al. "Efficient ML Models for Practical Secure Inference." arXiv preprint arXiv:2209.00411 (2022).

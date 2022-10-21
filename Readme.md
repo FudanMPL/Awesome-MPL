@@ -41,6 +41,7 @@ This repository will focus on:
 
  * [Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority](https://eprint.iacr.org/2022/623.pdf) Dalskov, Anders, Daniel Escudero, and Ariel Nof. "Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority." Cryptology ePrint Archive (2022).
 
+ * [SECFLOAT: Accurate Floating-Point meets Secure 2-Party Computation](https://eprint.iacr.org/2022/322.pdf) Rathee, Deevashwer, et al. "SecFloat: Accurate Floating-Point meets Secure 2-Party Computation." Cryptology ePrint Archive (2022).
 
 ## IEEE-S&P
  * [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://arxiv.org/pdf/1907.07212) Zheng, Wenting, et al. "Helen: Maliciously secure coopetitive learning for linear models." 2019 IEEE Symposium on Security and Privacy (SP). IEEE, 2019.
@@ -88,18 +89,20 @@ This repository will focus on:
  
  * [Tetrad: Actively Secure 4PC for Secure Training and Inference](https://arxiv.org/pdf/2106.02850) Koti, Nishat, et al. "Tetrad: actively secure 4pc for secure training and inference." arXiv preprint arXiv:2106.02850 (2021).
  
-
- 
  
 ## ACM-SIGKDD
  * [When homomorphic encryption marries secret sharing: Secure large-scale sparse logistic regression and applications in risk control](https://arxiv.org/pdf/2008.08753) Chen, Chaochao, et al. "When homomorphic encryption marries secret sharing: Secure large-scale sparse logistic regression and applications in risk control." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.
 
+## ACM-TOPS
+ * [MOTION - A Framework for Mixed-Protocol Multi-Party Computation](https://eprint.iacr.org/2020/1137.pdf) Braun, Lennart, et al. "MOTION–A Framework for Mixed-Protocol Multi-Party Computation." ACM Transactions on Privacy and Security 25.2 (2022): 1-35.
 
 ## PETS
  * [SecureNN: 3-Party Secure Computation for Neural Network Training](https://petsymposium.org/2019/files/papers/issue3/popets-2019-0035.pdf) Wagh, Sameer, Divya Gupta, and Nishanth Chandran. "SecureNN: 3-Party Secure Computation for Neural Network Training." Proc. Priv. Enhancing Technol. 2019.3 (2019): 26-49.
  
  * [FLASH: fast and robust framework for privacy-preserving machine learning](https://eprint.iacr.org/2019/1365.pdf) Byali, Megha, et al. "FLASH: fast and robust framework for privacy-preserving machine learning." Cryptology ePrint Archive (2019).
  
+ * [Secure Evaluation of Quantized Neural Networks](https://petsymposium.org/2020/files/papers/issue4/popets-2020-0075.pdf) Dalskov, Anders, Daniel Escudero, and Marcel Keller. "Secure evaluation of quantized neural networks." Proceedings on Privacy Enhancing Technologies 2020.4 (2020): 355-375.
+
  * [Falcon: Honest-Majority Maliciously Secure Framework for Private Deep Learning](https://arxiv.org/pdf/2004.02229) Wagh, Sameer, et al. "Falcon: Honest-majority maliciously secure framework for private deep learning." arXiv preprint arXiv:2004.02229 (2020).
 
 
@@ -107,3 +110,5 @@ This repository will focus on:
  * [Ariann: Low-interaction privacy-preserving deep learning via function secret sharing](https://arxiv.org/pdf/2006.04593) Ryffel, Théo, et al. "Ariann: Low-interaction privacy-preserving deep learning via function secret sharing." arXiv preprint arXiv:2006.04593 (2020).
 
  * [Efficient ML Models for Practical Secure Inference](https://arxiv.org/pdf/2209.00411) Ganesan, Vinod, et al. "Efficient ML Models for Practical Secure Inference." arXiv preprint arXiv:2209.00411 (2022).
+
+ * [Multi-Party Computation in the GDPR](https://eprint.iacr.org/2022/491.pdf) Helminger, Lukas, and Christian Rechberger. "Multi-Party Computation in the GDPR." Cryptology ePrint Archive (2022).

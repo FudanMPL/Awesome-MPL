@@ -44,6 +44,8 @@ This repository will focus on:
 
  * [SECFLOAT: Accurate Floating-Point meets Secure 2-Party Computation](https://eprint.iacr.org/2022/322.pdf) Rathee, Deevashwer, et al. "SecFloat: Accurate Floating-Point meets Secure 2-Party Computation." Cryptology ePrint Archive (2022).
 
+ * [NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms](https://download.arxiv.org/pdf/2210.09802v1)Fan, Xiaoyu, et al. "NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms." Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (2022).
+
 ## IEEE-S&P
  * [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://arxiv.org/pdf/1907.07212) Zheng, Wenting, et al. "Helen: Maliciously secure coopetitive learning for linear models." 2019 IEEE Symposium on Security and Privacy (SP). IEEE, 2019.
 

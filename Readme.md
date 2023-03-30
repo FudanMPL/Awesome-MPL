@@ -59,7 +59,7 @@ This repository will focus on:
 
 
 ## Usenix-Security
- * [Piranha: A GPU Platform for Secure Computation](https://www.usenix.org/system/files/sec22-watson.pdf) Jean-Luc Watson, et al. "Piranha: A GPU Platform for Secure Computation." 31st USENIX Security Symposium(USENIX Security 22). 2022.
+
  * [{XONN}:{XNOR-based} Oblivious Deep Neural Network Inference](https://www.usenix.org/system/files/sec19fall_riazi_prepub.pdf) Riazi, M. Sadegh, et al. "{XONN}:{XNOR-based} Oblivious Deep Neural Network Inference." 28th USENIX Security Symposium (USENIX Security 19). 2019.
  
  * [Delphi: A cryptographic inference service for neural networks](https://www.usenix.org/system/files/sec20-mishra_0.pdf) Mishra, Pratyush, et al. "Delphi: A cryptographic inference service for neural networks." 29th USENIX Security Symposium (USENIX Security 20). 2020.
@@ -80,7 +80,10 @@ This repository will focus on:
 
  * [Secure Poisson Regression](https://www.usenix.org/system/files/sec22-kelkar.pdf) Kelkar, Mahimna, et al. "Secure poisson regression." 31st USENIX Security Symposium (USENIX Security 22). 2022.
  
+  * [Piranha: A GPU Platform for Secure Computation](https://www.usenix.org/system/files/sec22-watson.pdf) Jean-Luc Watson, et al. "Piranha: A GPU Platform for Secure Computation." 31st USENIX Security Symposium(USENIX Security 22). 2022.
  
+ * [{ppSAT}: Towards {Two-Party} Private {SAT} Solving](https://www.usenix.org/system/files/sec22-luo.pdf) Luo, Ning, et al. "{ppSAT}: Towards {Two-Party} Private {SAT} Solving." 31st USENIX Security Symposium (USENIX Security 22). 2022.
+
 ## NDSS
  * [ABY-A framework for efficient mixed-protocol secure two-party computation](https://encrypto.de/papers/DSZ15.pdf) Demmler, Daniel, Thomas Schneider, and Michael Zohner. "ABY-A framework for efficient mixed-protocol secure two-party computation." NDSS. 2015.
  

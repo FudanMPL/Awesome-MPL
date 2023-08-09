@@ -46,6 +46,8 @@ This repository will focus on:
 
  * [NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms](https://download.arxiv.org/pdf/2210.09802v1)Fan, Xiaoyu, et al. "NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms." Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (2022).
 
+ * [pmpl: A robust multi-party learning framework with a privileged party](https://arxiv.org/pdf/2210.00486)Song, Lushan, et al. "pmpl: A robust multi-party learning framework with a privileged party." Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security. (2022)
+
 ## IEEE-S&P
  * [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://arxiv.org/pdf/1907.07212) Zheng, Wenting, et al. "Helen: Maliciously secure coopetitive learning for linear models." 2019 IEEE Symposium on Security and Privacy (SP). IEEE, 2019.
 
